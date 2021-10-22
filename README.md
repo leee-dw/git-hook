@@ -1,2 +1,1 @@
-# git-hook
-# git-hook
+# git-hook!
